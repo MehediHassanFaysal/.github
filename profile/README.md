@@ -16,17 +16,17 @@
 <table style="background-color:#FAFAF9; padding:0px;">
   <tr>
     <td style="vertical-align: middle; padding-right: 20px; max-width: 400px; font-size:10px;">
-      🟢 Passionate Software Quality Assurance (SQA) Engineer with expertise in <strong>manual and automated testing</strong>, as well as <strong>software security testing</strong>. Dedicated to ensuring high-quality, reliable, and secure software solutions.
+      🛡️ Passionate Software Quality Assurance (SQA) Engineer with expertise in <strong>manual and automated testing</strong>, as well as <strong>software security testing</strong>. Dedicated to ensuring high-quality, reliable, and secure software solutions.
 
 
 - 💡 Explore my projects at [https://github.com/MehediHassanFaysal](https://github.com/MehediHassanFaysal) to see practical solutions and well-crafted code.  
 
-- 💬 Conducts and is passionate about **Web Automation, Mobile Automation, API Automation, Performance Testing (both REST and procedural), and VAPT**, and enjoys exploring the intricacies of **Java, JavaScript, and Python**, along with software engineering best practices.
+- 🗨️ Conducts and is passionate about **Web Automation, Mobile Automation, API Automation, Performance Testing (both REST and procedural), and VAPT**, and enjoys exploring the intricacies of **Java, JavaScript, and Python**, along with software engineering best practices.
   
-- Core skills (Selenium WebDriver | Playwright | Cypress | Postman | RestAssured | JMeter | Burp Suite | Git | Azure | SQL)
+- 💻📌 Core skills (Selenium WebDriver | Playwright | Cypress | Postman | RestAssured | JMeter | Burp Suite | Git | Azure | SQL)
 
   
-- 📫 Feel free to reach out at **faysal.sarder515@gmail.com** for collaboration, discussions, or knowledge sharing.
+- ✉️ Feel free to reach out at **faysal.sarder515@gmail.com** for collaboration, discussions, or knowledge sharing.
 
 
 
