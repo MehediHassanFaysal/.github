@@ -11,8 +11,7 @@
 <table>
   <tr>
     <td>
-
-- 🟢 Passionate **Software Quality Assurance (SQA) Engineer** with expertise in **manual and automated testing**, as well as **software security testing**. Dedicated to ensuring high-quality, reliable, and secure software solutions.
+🟢 Passionate **Software Quality Assurance (SQA) Engineer** with expertise in **manual and automated testing**, as well as **software security testing**. Dedicated to ensuring high-quality, reliable, and secure software solutions.
 
     </td>
     <td>
