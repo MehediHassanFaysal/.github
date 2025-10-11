@@ -79,6 +79,20 @@
 </p>
 
 
+<h3 align="center">📫 Contact me via:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+
+
 <p align="center">
   🌐 For more details, visit:  
   <a href="https://sites.google.com/view/faysal515/skills" target="_blank" rel="noopener noreferrer">
