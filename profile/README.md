@@ -67,10 +67,7 @@
 </p>
 
 
-
-
-
-<h3 align="center">📫 Contact me via:</h3>
+<h3 align="center">🤝 Contact Me Via:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/faysal-sarder/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
