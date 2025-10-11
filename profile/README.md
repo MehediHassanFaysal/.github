@@ -9,7 +9,9 @@
 </p>
 
 
-
+<p align="center">
+  A passionate <strong>Software Quality Assurance (SQA) Engineer</strong> from Bangladesh
+</p>
 
 
 
