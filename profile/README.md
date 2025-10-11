@@ -23,7 +23,7 @@
 
 - 💬 Conducts and is passionate about **Web Automation, Mobile Automation, API Automation, Performance Testing (both REST and procedural), and VAPT**, and enjoys exploring the intricacies of **Java, JavaScript, and Python**, along with software engineering best practices.
   
-- Core skills (Selenium WebDriver | Playwright | Cypress | TestNG | Postman | RestAssured | JMeter | Git | Azure | SQL)
+- Core skills (Selenium WebDriver | Playwright | Cypress | TestNG | Postman | RestAssured | JMeter | Burp Suite | Git | Azure | SQL)
 
   
 - 📫 Feel free to reach out at **faysal.sarder515@gmail.com** for collaboration, discussions, or knowledge sharing.
