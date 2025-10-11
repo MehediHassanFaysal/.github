@@ -13,6 +13,7 @@
   A passionate <strong>Software Quality Assurance (SQA) and Security Engineer</strong> from Bangladesh
 </p>
 
+- 🌱 Passionate **Software Quality Assurance (SQA) Engineer** with expertise in **manual and automated testing**, as well as **software security testing**. Dedicated to ensuring high-quality, reliable, and secure software solutions.
 
 
 
