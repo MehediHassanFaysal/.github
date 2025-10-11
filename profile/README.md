@@ -23,8 +23,8 @@
 
 <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" 
      alt="Faysal GIF" 
-     width="300" 
-     height="300" 
+     width="250" 
+     height="250" 
      style="border-radius:50%;" />
 
     
