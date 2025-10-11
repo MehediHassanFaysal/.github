@@ -39,8 +39,7 @@
 </table>
 
 
-
-⚙️ **Tech Stack & Tools:**  
+## ⚙️ Tech Stack & Tools
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)  
 [![TestNG](https://img.shields.io/badge/TestNG-5C4EE5?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)  
@@ -53,8 +52,13 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)  
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.mysql.com/)
-
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.mysql.com/)  
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)  
+[![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)  
+[![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF0000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://robotframework.org/)  
+[![Pytest](https://img.shields.io/badge/Pytest-0080C0?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)  
+[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF0000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-zap/)  
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-EE7621?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/burp)
 
 
 
