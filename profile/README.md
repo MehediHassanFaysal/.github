@@ -9,24 +9,17 @@
 </p>
 
 
-
 <table>
   <tr>
-    <!-- Left: Bio -->
     <td style="vertical-align: middle; padding-right: 20px; max-width: 400px;">
       🟢 Passionate <strong>Software Quality Assurance (SQA) Engineer</strong> with expertise in <strong>manual and automated testing</strong>, as well as <strong>software security testing</strong>. Dedicated to ensuring high-quality, reliable, and secure software solutions.
     </td>
-
-    <!-- Right: GIF -->
-    <td style="vertical-align: middle;">
-      <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" 
-           alt="Faysal GIF" 
-           width="200" 
-           height="200" 
-           style="border-radius:50%;" />
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Faysal GIF" width="200" />
     </td>
   </tr>
 </table>
+
 
 
 
