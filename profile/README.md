@@ -41,24 +41,30 @@
 
 ## ⚙️ Tech Stack & Tools
 
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)  
-[![TestNG](https://img.shields.io/badge/TestNG-5C4EE5?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)  
-[![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)  
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)  
-[![RestAssured](https://img.shields.io/badge/RestAssured-5C4EE5?style=for-the-badge)](https://rest-assured.io/)  
-[![JMeter](https://img.shields.io/badge/JMeter-6A2C70?style=for-the-badge&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)  
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)  
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.mysql.com/)  
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)  
-[![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)  
-[![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF0000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://robotframework.org/)  
-[![Pytest](https://img.shields.io/badge/Pytest-0080C0?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)  
-[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF0000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-zap/)  
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-EE7621?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/burp)
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+   <img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/TestNG-5C4EE5?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
+  <img src="https://img.shields.io/badge/Pytest-0080C0?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/RestAssured-5C4EE5?style=for-the-badge" alt="RestAssured" />
+    <img src="https://img.shields.io/badge/Robot_Framework-FF0000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/JMeter-6A2C70?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/SoapUI-6A2C70?style=for-the-badge&logo=soapui&logoColor=white" alt="SoapUI" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-FF0000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Burp_Suite-EE7621?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+</p>
+
 
 
 
