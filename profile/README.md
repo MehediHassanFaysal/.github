@@ -8,17 +8,33 @@
        style="border-radius:50%;" />
 </p>
 
+<p align="center">
+  A passionate <strong>Software Quality Assurance (SQA) Engineer</strong> from Bangladesh
+</p>
+
 
 <table>
   <tr>
-    <td style="vertical-align: middle; padding-right: 20px; max-width: 400px;">
-      🟢 Passionate <strong>Software Quality Assurance (SQA) Engineer</strong> with expertise in <strong>manual and automated testing</strong>, as well as <strong>software security testing</strong>. Dedicated to ensuring high-quality, reliable, and secure software solutions.
+    <td style="vertical-align: middle; padding-right: 20px; max-width: 400px; font-size:10px;">
+      🟢 Passionate Software Quality Assurance (SQA) Engineer with expertise in <strong>manual and automated testing</strong>, as well as <strong>software security testing</strong>. Dedicated to ensuring high-quality, reliable, and secure software solutions.
+
+
+- 👨‍💻 Explore my projects at [https://github.com/MehediHassanFaysal](https://github.com/MehediHassanFaysal) to see practical solutions and well-crafted code.  
+
+- 💬 I’m passionate about **API testing, performance testing, and automation testing** (Selenium), and I enjoy exploring the intricacies of **Java** and software engineering best practices.  
+
+- 📫 Feel free to reach out at **faysal.sarder515@gmail.com** for collaboration, discussions, or knowledge sharing.
+
+
+
+      
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
-      <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Faysal GIF" width="200" />
+      <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Faysal GIF" width="300" />
     </td>
   </tr>
 </table>
+
 
 
 
