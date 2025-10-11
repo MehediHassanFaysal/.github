@@ -19,21 +19,21 @@
 
 <table>
   <tr>
-    <!-- Left: Bio -->
-    <td style="vertical-align: middle; padding-right: 20px; max-width: 400px;">
-      - 🟢 Passionate **Software Quality Assurance (SQA) Engineer** with expertise in **manual and automated testing**, as well as **software security testing**. Dedicated to ensuring high-quality, reliable, and secure software solutions.
+    <td>
+🟢 Passionate **Software Quality Assurance (SQA) Engineer** with expertise in **manual and automated testing**, as well as **software security testing**. Dedicated to ensuring high-quality, reliable, and secure software solutions.
     </td>
-
-    <!-- Right: GIF -->
-    <td style="vertical-align: middle;">
+    
+    <td>
       <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" 
            alt="Faysal GIF" 
            width="200" 
            height="200" 
-           style="border-radius:50%;" />
+           style="border-radius:50%;"
+     />
     </td>
   </tr>
 </table>
+
 
 
 
