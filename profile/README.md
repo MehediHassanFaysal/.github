@@ -23,7 +23,7 @@
 
 - 💬 Conducts and is passionate about **Web Automation, Mobile Automation, API Automation, Performance Testing (both REST and procedural), and VAPT**, and enjoys exploring the intricacies of **Java, JavaScript, and Python**, along with software engineering best practices.
   
-- Core skills (Selenium WebDriver | Playwright | Cypress | TestNG | Postman | RestAssured | JMeter | Burp Suite | Git | Azure | SQL)
+- Core skills (Selenium WebDriver | Playwright | Cypress | Postman | RestAssured | JMeter | Burp Suite | Git | Azure | SQL)
 
   
 - 📫 Feel free to reach out at **faysal.sarder515@gmail.com** for collaboration, discussions, or knowledge sharing.
@@ -46,8 +46,9 @@
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
    <img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
-  <img src="https://img.shields.io/badge/TestNG-5C4EE5?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
   <img src="https://img.shields.io/badge/Pytest-0080C0?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+    <img src="https://img.shields.io/badge/TestNG-5C4EE5?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/RestAssured-5C4EE5?style=for-the-badge" alt="RestAssured" />
     <img src="https://img.shields.io/badge/Robot_Framework-FF0000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework" />
