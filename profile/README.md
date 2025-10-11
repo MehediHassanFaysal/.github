@@ -19,9 +19,9 @@
       🟢 Passionate Software Quality Assurance (SQA) Engineer with expertise in <strong>manual and automated testing</strong>, as well as <strong>software security testing</strong>. Dedicated to ensuring high-quality, reliable, and secure software solutions.
 
 
-- 👨‍💻 Explore my projects at [https://github.com/MehediHassanFaysal](https://github.com/MehediHassanFaysal) to see practical solutions and well-crafted code.  
+- 💡 Explore my projects at [https://github.com/MehediHassanFaysal](https://github.com/MehediHassanFaysal) to see practical solutions and well-crafted code.  
 
-- 💬 I’m passionate about **API testing, performance testing, and automation testing** (Selenium), and I enjoy exploring the intricacies of **Java** and software engineering best practices.  
+- 💬 Conducts and is passionate about **Web Automation, Mobile Automation, API Automation, Performance Testing (both REST and procedural), and VAPT**, and enjoys exploring the intricacies of **Java, JavaScript, and Python**, along with software engineering best practices.
 
 - 📫 Feel free to reach out at **faysal.sarder515@gmail.com** for collaboration, discussions, or knowledge sharing.
 
