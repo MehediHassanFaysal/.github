@@ -26,7 +26,7 @@
      width="400" 
      height="400" 
      style="border-radius:50%;" />
-
+</td>
     
   </tr>
 </table>
