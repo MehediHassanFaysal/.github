@@ -21,9 +21,9 @@
 
 - 💡 Explore my projects at [https://github.com/MehediHassanFaysal](https://github.com/MehediHassanFaysal) to see practical solutions and well-crafted code.  
 
-- ⚡ Conducts and is passionate about **Web Automation, Mobile Automation, API Automation, Performance Testing (both REST and procedural), and VAPT**, and enjoys exploring the intricacies of **Java, JavaScript, and Python**, along with software engineering best practices.
+- 💻 Conducts and is passionate about **Web Automation, Mobile Automation, API Automation, Performance Testing (both REST and procedural), and VAPT**, and enjoys exploring the intricacies of **Java, JavaScript, and Python**, along with software engineering best practices.
   
-- 💻📌 Core skills (Selenium WebDriver | Playwright | Cypress | Postman | RestAssured | JMeter | Burp Suite | Git | Azure | SQL)
+- 📌 Core skills (Selenium WebDriver | Playwright | Cypress | Postman | RestAssured | JMeter | Burp Suite | Git | Azure | SQL)
 
   
 - ✉️ Feel free to reach out at **faysal.sarder515@gmail.com** for collaboration, discussions, or knowledge sharing.
