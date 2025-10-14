@@ -83,7 +83,7 @@
 
 <p align="center">
   🌐 For more details, visit:  
-  <a href="https://sites.google.com/view/faysal515/skills" target="_blank" rel="noopener noreferrer">
+  <a href="https://sites.google.com/view/faysal515/home" target="_blank" rel="noopener noreferrer">
     <b>My Portfolio Website</b>
   </a>
 </p>
