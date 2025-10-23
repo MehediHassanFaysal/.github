@@ -88,7 +88,7 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MehediHassanFaysal&color=brightgreen&style=flat)
+
 ![Visitors](https://komarev.com/ghpvc/?username=FaysalSarder515&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 
