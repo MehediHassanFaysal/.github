@@ -12,7 +12,6 @@
   A passionate <strong>Software Quality Assurance (SQA) Engineer</strong> from Bangladesh
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MehediHassanFaysal&color=brightgreen&style=flat)
 
 <table style="background-color:#FAFAF9; padding:0px;">
   <tr>
@@ -89,7 +88,7 @@
   </a>
 </p>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=MehediHassanFaysal&color=brightgreen&style=flat)
 
 
 
