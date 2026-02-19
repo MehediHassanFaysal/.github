@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I'm Faysal Sarder</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif" 
+  <img src="https://drive.google.com/file/d/1wH1togBaA_Yb7QuLQq5lXas-qfIIjNhl/view?usp=drive_link" 
        alt="Faysal GIF" 
        width="400" 
        height="400" 
