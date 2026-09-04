@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" 
        alt="Faysal GIF" 
-       width="200" 
-       height="200" 
+       width="100" 
+       height="100" 
        style="border-radius:50%;" />
 </p>
 
@@ -33,7 +33,7 @@
       
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
-      <img src="" alt="Faysal GIF" width="600" height="400" />
+      <img src="" alt="Faysal GIF" width="100" height="100" />
     </td>
   </tr>
 </table>
